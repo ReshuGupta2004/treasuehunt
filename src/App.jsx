@@ -1,4 +1,4 @@
-import MapComponent from './mapComponent'
+import MapComponent from './MapComponent'
 import './App.css'
 
 function App() {
